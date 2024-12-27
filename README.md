@@ -1,3 +1,3 @@
 # Turbokill
 
-https://botpanzer.github.io/Turbokill/
+https://botpanzeta.github.io/Turbokill/
